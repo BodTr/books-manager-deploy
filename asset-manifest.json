@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/books-manager-deploy/static/css/main.d221dc40.css",
+    "main.js": "/books-manager-deploy/static/js/main.1ba1f0cb.js",
+    "index.html": "/books-manager-deploy/index.html",
+    "main.d221dc40.css.map": "/books-manager-deploy/static/css/main.d221dc40.css.map",
+    "main.1ba1f0cb.js.map": "/books-manager-deploy/static/js/main.1ba1f0cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.1ba1f0cb.js"
+  ]
+}
